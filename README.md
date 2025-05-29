@@ -11,4 +11,17 @@ Cyclora is a multinational bicycle company with a growing presence across Europe
 - Which marital status group purchased the most bikes?
 - How far from work do the majority of bike-buying customers live?
 
+- Dashboard interaction <a href=https://github.com/Njabulo-L/Data-Analysis-Dashboard/blob/main/1.jpg>View Dashboard</a>
+
+## Process
+### Data Cleaning & Preparation
+- Verified the dataset for duplicates, missing values, and anomalies.
+- Ensured consistency in data types, formats, and value ranges across all fields.
+### Data Analysis
+- Created pivot tables to address each of the key business questions (e.g. gender, age group, marital status, commute distance).
+- Analysed relationships between demographic attributes and bike purchase behaviour.
+### Dashboard Development 
+- Combined all pivot tables into a single interactive dashboard using Power BI.
+- Applied slicers (e.g. by region, age group, gender) to allow dynamic filtering and enhanced user exploration of the data.
+
 
