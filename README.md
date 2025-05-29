@@ -25,5 +25,7 @@ Cyclora is a multinational bicycle company with a growing presence across Europe
 - Applied slicers (e.g. by region, age group, gender) to allow dynamic filtering and enhanced user exploration of the data.
 
 ## Dashboard 
+![1](https://github.com/user-attachments/assets/18b8411b-c8cf-48c2-a067-42724a2c7b19)
+
 ![2](https://github.com/user-attachments/assets/6d90c5d1-1347-4e07-9ecd-252fe473415a)
 
