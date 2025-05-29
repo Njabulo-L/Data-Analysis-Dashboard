@@ -5,4 +5,10 @@ Cyclora is a multinational bicycle company with a growing presence across Europe
 ## Dataset used 
 - <a href=https://github.com/Njabulo-L/Data-Analysis-Dashboard/blob/main/Excel%20Project%20Dataset.xlsx>Cyclora Data</a>
 
+## Questions 
+- Which gender purchased the most bikes?
+- Which age bracket accounted for the highest number of bike purchases?
+- Which marital status group purchased the most bikes?
+- How far from work do the majority of bike-buying customers live?
+
 
