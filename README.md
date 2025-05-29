@@ -29,3 +29,18 @@ Cyclora is a multinational bicycle company with a growing presence across Europe
 
 ![2](https://github.com/user-attachments/assets/6d90c5d1-1347-4e07-9ecd-252fe473415a)
 
+## Key Findings 
+### Gender: 
+Male customers are more likely to purchase bikes than female customers, likely due to higher average income levels.
+### Age: 
+Middle-aged customers (ages 30–53) account for the majority of bike purchases.
+### Commute Distance: 
+Customers living within 0–1 mile of work made up the largest portion of bike buyers, followed by those living 2–5 miles away.
+### Regional Insights:
+#### Europe: 
+Bike purchases were dominated by middle-aged customers (both single and married) living within 0–1 mile of work.
+#### North America: 
+The highest sales came from middle-aged customers (both single and married) living 2–5 miles from work, followed by single middle-aged customers within 0–1 mile.
+#### Pacific: 
+Most purchases were made by single middle-aged customers living 0–1 mile from work, followed closely by those living 2–5 miles away.
+
