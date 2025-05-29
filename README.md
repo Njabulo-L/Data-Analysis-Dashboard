@@ -24,4 +24,6 @@ Cyclora is a multinational bicycle company with a growing presence across Europe
 - Combined all pivot tables into a single interactive dashboard using Power BI.
 - Applied slicers (e.g. by region, age group, gender) to allow dynamic filtering and enhanced user exploration of the data.
 
+## Dashboard 
+![2](https://github.com/user-attachments/assets/6d90c5d1-1347-4e07-9ecd-252fe473415a)
 
