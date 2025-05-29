@@ -44,3 +44,6 @@ The highest sales came from middle-aged customers (both single and married) livi
 #### Pacific: 
 Most purchases were made by single middle-aged customers living 0–1 mile from work, followed closely by those living 2–5 miles away.
 
+## Final Conclusion
+The most likely bike buyers are males aged 31–53 who live within 0–5 miles of their workplace.
+As the distance from work increases, the likelihood of purchasing a bike decreases. Therefore, marketing and sales efforts should target customers living within a 5-mile radius of their workplace to maximise sales potential.
